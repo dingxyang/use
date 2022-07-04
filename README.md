@@ -4,10 +4,10 @@ Things I am using
 ### 编辑器和 Terminal
 
 - [VS Code](https://code.visualstudio.com/)
-- Terminal 用 [**iTerm2**](https://www.iterm2.com/) + [**zsh**](https://en.wikipedia.org/wiki/Z_shell) + [**oh-my-zsh**](https://github.com/robbyrussell/oh-my-zsh) 的组合
+- Terminal [**iTerm2**](https://www.iterm2.com/) + [**zsh**](https://en.wikipedia.org/wiki/Z_shell) + [**oh-my-zsh**](https://github.com/robbyrussell/oh-my-zsh) 的组合
 
 ### 开发辅助
-- [**SourceTree**](https://www.sourcetreeapp.com/)，git 辅助，由于 git 高级操作命令记不住，就只用借助 UI 了
+- [**SourceTree**](https://www.sourcetreeapp.com/)
 - [**Charles**](https://www.charlesproxy.com/)，抓包用，支持 https
 
 ### 输出

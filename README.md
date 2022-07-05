@@ -29,7 +29,6 @@ Things I am using
 - [**RunCat**](https://itunes.apple.com/nz/app/runcat/id1429033973?mt=12&ref=appinn) - 菜单栏显示奔跑的小猫，CPU 占用率越高跑地越快
 - [**Shottr**](https://shottr.cc/)，截图
 - [**Dash**](https://kapeli.com/dash)，API文档集。
-- 
 
 ### Chrome 插件
 

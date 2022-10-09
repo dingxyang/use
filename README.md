@@ -17,11 +17,11 @@ Things I am using
 - [**Alfred**](https://www.alfredapp.com/)，关键字搜索，可以搜索浏览器标签
 
 ### 输出
-- [**Logseq**](https://logseq.com/) ，大纲管理
 - [**滴答清单**](https://www.dida365.com/) ，任务管理打卡
 - [**LICEcap**](http://www.cockos.com/licecap/) ，GIF 录屏工具
 - [**Yank Note**](https://github.com/purocean/yn) ，Markdown笔记
 - [**XMind**](https://www.xmind.cn/)，思维导图
+- [**obsidian**](https://obsidian.md/)，笔记工具
 
 ### 其他
 - [**CleanMyMac 3**](https://macpaw.com/cleanmymac)，系统清理

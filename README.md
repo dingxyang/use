@@ -17,15 +17,12 @@ Things I am using
 - [**Alfred**](https://www.alfredapp.com/)，关键字搜索，可以搜索浏览器标签
 
 ### 输出
-- [**滴答清单**](https://www.dida365.com/) ，任务管理打卡
 - [**LICEcap**](http://www.cockos.com/licecap/) ，GIF 录屏工具
-- [**Yank Note**](https://github.com/purocean/yn) ，Markdown笔记
 - [**XMind**](https://www.xmind.cn/)，思维导图
 - [**obsidian**](https://obsidian.md/)，笔记工具
 
 ### 其他
 - [**CleanMyMac 3**](https://macpaw.com/cleanmymac)，系统清理
-- [**RunCat**](https://itunes.apple.com/nz/app/runcat/id1429033973?mt=12&ref=appinn) - 菜单栏显示奔跑的小猫，CPU 占用率越高跑地越快
 - [**Shottr**](https://shottr.cc/)，截图
 - [**Dash**](https://kapeli.com/dash)，API文档集。
 
@@ -40,8 +37,6 @@ Things I am using
 - [**npmhub**](https://chrome.google.com/webstore/detail/npmhub/kbbbjimdjbjclaebffknlabpogocablj)
 - [**OctoLinker**](https://octolinker.vercel.app/)
 #### 其他
-- [**稀土掘金**](https://chrome.google.com/webstore/detail/稀土掘金/lecdifefmmfjnjjinhaennhdlmcaeeeb)
 
 ## iPhone 软件
 
-- [**滴答清单**](https://www.dida365.com/) ，任务管理打卡

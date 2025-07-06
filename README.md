@@ -37,6 +37,7 @@ Things I am using
 - [**npmhub**](https://chrome.google.com/webstore/detail/npmhub/kbbbjimdjbjclaebffknlabpogocablj)
 - [**OctoLinker**](https://octolinker.vercel.app/)
 #### 其他
+- [输入法](https://github.com/xiaochunjimmy/Sogou-Input-Skin)
 
 ## iPhone 软件
 
